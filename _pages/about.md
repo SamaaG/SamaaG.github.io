@@ -10,7 +10,9 @@ redirect_from:
 This is Samaa Gazzaz's home on the web!
 I am currently pursuing a PhD in Computer Science at UCSC. My research interests include "machine learning" and "distributed systems".
 
-Publications:
+
+
+<h2>Publications:</h2>
 <ul>
   <li>
     Samaa Gazzaz, Praveen Rao - Extracting Meaningful Insights on City and Zone Levels Utilizing US Open Government Data. In the 3rd Workshop on Women in Web Data Science (WinDS) @ WWW 2019, pages 1279-1285, San Francisco, CA, 2019.<a href="http://r.web.umkc.edu/raopr/OGDXplor-WinDS-2019.pdf">(PDF)</a>
