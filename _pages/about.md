@@ -7,13 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Samaa Gazzaz's home on the web!
-I am currently pursuing a PhD in Computer Science at UCSC. My research interests include "machine learning" and "distributed systems".
+About
+I am a third-year computer science Ph.D. student at the University of California-Santa Cruz (UCSC), advised by Professor Faisal Nawab. My research aims to build distributed cloud-computing systems that empower machine learning (ML) and computer vision (CV) applications. My current focus is finding the optimal balance between latency and accuracy of ML/CV real-time applications, and eveloping "incrementally privacy-preserving" neural networks.
+
+Prior to starting my Ph.D. at UCSC, I worked at the intersection of data science and economy. During my Master's studies, I developed a recommendation system that utilized open government data and ML alogrithms to help first-time home buyers, decide based on different factors, the most compatible zipcode area for them.
 
 
 
 <h2>Publications:</h2>
 <ul>
+  <li>
+    Samaa Gazzaz,  Vishal Chakraborty, Faisal Nawab - Croesus: Multi-Stage Processing and Transactions for Video-Analytics in Edge-Cloud Systems. ICDE 2022.<a href="https://arxiv.org/pdf/2201.00063.pdf">(PDF)</a>
+  </li>
+  <li>
+    Samaa Gazzaz, Faisal Nawab - Collaborative edge-cloud and edge-edge video analytics. SoCC 2019.<a href="https://dl.acm.org/doi/pdf/10.1145/3357223.3366024">(PDF)</a>
+  </li>
   <li>
     Samaa Gazzaz, Praveen Rao - Extracting Meaningful Insights on City and Zone Levels Utilizing US Open Government Data. In the 3rd Workshop on Women in Web Data Science (WinDS) @ WWW 2019, pages 1279-1285, San Francisco, CA, 2019.<a href="http://r.web.umkc.edu/raopr/OGDXplor-WinDS-2019.pdf">(PDF)</a>
   </li>
