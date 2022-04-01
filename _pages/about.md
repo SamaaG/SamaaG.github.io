@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About
 I am a third-year computer science Ph.D. student at the University of California-Santa Cruz (UCSC), advised by Professor Faisal Nawab. My research aims to build distributed cloud-computing systems that empower machine learning (ML) and computer vision (CV) applications. My current focus is finding the optimal balance between latency and accuracy of ML/CV real-time applications, and eveloping "incrementally privacy-preserving" neural networks.
 
 Prior to starting my Ph.D. at UCSC, I worked at the intersection of data science and economy. During my Master's studies, I developed a recommendation system that utilized open government data and ML alogrithms to help first-time home buyers, decide based on different factors, the most compatible zipcode area for them.
