@@ -11,7 +11,7 @@ I am a fourth-year computer science Ph.D. candidate at the University of Califor
 
 Prior to starting my Ph.D. at UCSC, I worked at the intersection of data science and economy. During my Master's studies, I developed a recommendation system that utilized heterogeneous open government data and ML alogrithms to help first-time home buyers, decide based on different factors, the most compatible zipcode area for them.
 
-
+You can find <a href="https://drive.google.com/file/d/1bcTRuIeSkkwLMp52jc2FmmRPIzdaLjfc/view?usp=share_link">my resume here.</a>
 
 <h2>Publications:</h2>
 <ul>
