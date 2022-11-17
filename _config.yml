@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Samaa Gazzaz"
   avatar           : "Samaa-Gazzaz.jpg"
-  bio              : "Pursuing my PhD in Computer Science at UCSC"
+  bio              : "PhD candidate at UCSC"
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=r00XpjcAAAAJ&hl=en"
+  email            : "sgazzaz@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SamaaG"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/samaa-gazzaz/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SamaTG"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
