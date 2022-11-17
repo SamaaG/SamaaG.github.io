@@ -11,11 +11,10 @@ I am a fourth-year computer science Ph.D. candidate at the University of Califor
 
 Prior to starting my Ph.D. at UCSC, I worked at the intersection of data science and economy. During my Master's studies, I developed a recommendation system that utilized heterogeneous open government data and ML alogrithms to help first-time home buyers, decide based on different factors, the most compatible zipcode area for them. 
 
-More information:
- <a href="https://www.linkedin.com/in/samaa-gazzaz/">my LinkedIn</a>
- <a href="https://drive.google.com/file/d/1bcTRuIeSkkwLMp52jc2FmmRPIzdaLjfc/view?usp=share_link">My resume</a>
+For more information, visit
+ <a href="https://drive.google.com/file/d/1bcTRuIeSkkwLMp52jc2FmmRPIzdaLjfc/view?usp=share_link">my resume</a>.
 
-<h2>Publications:</h2>
+<h2>Selected Publications:</h2>
 <ul>
   <li>
     Samaa Gazzaz,  Vishal Chakraborty, Faisal Nawab - Croesus: Multi-Stage Processing and Transactions for Video-Analytics in Edge-Cloud Systems. ICDE 2022.<a href="https://arxiv.org/pdf/2201.00063.pdf">(PDF)</a>
@@ -25,9 +24,6 @@ More information:
   </li>
   <li>
     Samaa Gazzaz, Praveen Rao - Extracting Meaningful Insights on City and Zone Levels Utilizing US Open Government Data. In the 3rd Workshop on Women in Web Data Science (WinDS) @ WWW 2019, pages 1279-1285, San Francisco, CA, 2019.<a href="http://r.web.umkc.edu/raopr/OGDXplor-WinDS-2019.pdf">(PDF)</a>
-  </li>
-  <li>
-    <a href="https://scholar.google.com/citations?user=r00XpjcAAAAJ&hl=en">Complete list on Google Scholar.</a>
   </li>
 </ul>
 
